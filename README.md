@@ -16,15 +16,6 @@ A robust Parking Management System designed to streamline and automate the manag
 
 ----------
 
-## **Technologies Used**
-
--   **Frontend**: HTML, CSS, JavaScript (or other relevant technologies).
--   **Backend**: Python, Node.js (or other backend language).
--   **Database**: MySQL, MongoDB, SQLite (or your chosen database).
--   **Frameworks/Libraries**: React, Express.js, Flask (or applicable tools).
-
-----------
-
 ## **Installation**
 
 ### Prerequisites
